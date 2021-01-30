@@ -1,0 +1,11 @@
+html {
+    padding:    0 15px;
+    max-width: 900px;
+    font-family: 'arial', sans-serif;
+    color: #202124;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
