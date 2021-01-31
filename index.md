@@ -75,7 +75,3 @@ Learn more on [who.int](https://www.who.int/emergencies/diseases/novel-coronavir
 
 National hotline: [0800 029 999](tel:0800 029 999)  
 Whatsapp: [0600 123 456](tel:0600 123 456)
-
-<footer>
-Test
-</footer>
