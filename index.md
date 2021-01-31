@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## COVID-19 facts and updates
+
+Simple and to-the-point COVID-19 facts and updates for South Africans.
+Last updated 30 January 2021.
 
 You can use the [editor on GitHub](https://github.com/craig-feldman/covid-info/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
