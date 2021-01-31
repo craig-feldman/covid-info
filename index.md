@@ -18,10 +18,9 @@ Detailed regulations and guidelines can be found [here](https://www.gov.za/covid
 
 - SA should receive it's first COVID-19 vaccine delivery on 01 February 2021.
 - The vaccine will be rolled out in 3 phases:
-
-- 1: Frontline helthcare workers.
-- 2: Essential workers and high-risk indivduals.
-- 3: All others.
+  - 1: Frontline helthcare workers.
+  - 2: Essential workers and high-risk indivduals.
+  - 3: All others.
 
 ### Daily change
 
