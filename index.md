@@ -1,4 +1,4 @@
-Last updated 30 January 2021.
+Last updated 01 February 2021.
 
 ## Updates
 
@@ -6,25 +6,29 @@ Last updated 30 January 2021.
 
 The following core regulations are in effect:
 
-- A curfew between 21h00 and 05h00.
-- Most establishments to be closed by 20h00.
+- A curfew between 23h00 and 04h00.
+- Most establishments to be closed by 22h00.
 - Mandatory wearing of face masks in public (except for children under the age of 6).
-- Beaches, dams, and rivers are closed in all hotspot areas.
-- The sale of liquor is prohibited.
+- Beaches, dams, and rivers are now open.
+- Liquor restrictions:
+  - The sale of liquor is permitted Mon-Thurs, between 10h00 and 18h00.
+  - Restaurants may serve liquor until 22h00.
 
 Detailed regulations and guidelines can be found [here](https://www.gov.za/covid-19/resources/regulations-and-guidelines-coronavirus-covid-19#regulations).
 
 ### Latest info
 
-- SA should receive it's first COVID-19 vaccine delivery on 01 February 2021.
+- SA received it's first COVID-19 vaccine delivery on 01 February 2021.
 - The vaccine will be rolled out in 3 phases:
   - 1: Frontline helthcare workers.
   - 2: Essential workers and high-risk indivduals.
   - 3: All others.
 
-### Daily change
+<details>
+  <summary>### Daily change</summary>
 
-<iframe src="https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=true&amp;time=2020-01-03..latest&amp;country=~ZAF&amp;region=World&amp;casesMetric=true&amp;interval=smoothed&amp;hideControls=true&amp;smoothing=7&amp;pickerMetric=total_cases&amp;pickerSort=desc" loading="lazy" style="width: 100%; height: 500px; border: 0px none;"></iframe>
+  <iframe src="https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=true&amp;time=2020-01-03..latest&amp;country=~ZAF&amp;region=World&amp;casesMetric=true&amp;interval=smoothed&amp;hideControls=true&amp;smoothing=7&amp;pickerMetric=total_cases&amp;pickerSort=desc" loading="lazy" style="width: 100%; height: 500px; border: 0px none;"></iframe>
+</details>
 
 ## Symptons
 
