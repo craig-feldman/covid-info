@@ -24,7 +24,7 @@ Detailed regulations and guidelines can be found [here](https://www.gov.za/covid
   - 2: Essential workers and high-risk individuals.
   - 3: All others.
 
-### Stats
+### Statistics 
 <details>
   <summary>Daily change</summary>
 
@@ -38,6 +38,11 @@ Detailed regulations and guidelines can be found [here](https://www.gov.za/covid
 </details>
 
 View more on [ourworldindata.org](https://ourworldindata.org/coronavirus/country/south-africa?country=~ZAF)
+
+## What is COVID-19
+Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+
+Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment.
 
 ## Symptoms
 
