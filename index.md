@@ -24,8 +24,9 @@ Detailed regulations and guidelines can be found [here](https://www.gov.za/covid
   - 2: Essential workers and high-risk indivduals.
   - 3: All others.
 
+### Stats
 <details>
-  <summary>### Daily change</summary>
+  <summary>Daily change</summary>
 
   <iframe src="https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=true&amp;time=2020-01-03..latest&amp;country=~ZAF&amp;region=World&amp;casesMetric=true&amp;interval=smoothed&amp;hideControls=true&amp;smoothing=7&amp;pickerMetric=total_cases&amp;pickerSort=desc" loading="lazy" style="width: 100%; height: 500px; border: 0px none;"></iframe>
 </details>
