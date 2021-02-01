@@ -20,8 +20,8 @@ Detailed regulations and guidelines can be found [here](https://www.gov.za/covid
 
 - SA received it's first COVID-19 vaccine delivery on 01 February 2021.
 - The vaccine will be rolled out in 3 phases:
-  - 1: Frontline helthcare workers.
-  - 2: Essential workers and high-risk indivduals.
+  - 1: Frontline healthcare workers.
+  - 2: Essential workers and high-risk individuals.
   - 3: All others.
 
 ### Stats
@@ -39,7 +39,7 @@ Detailed regulations and guidelines can be found [here](https://www.gov.za/covid
 
 View more on [ourworldindata.org](https://ourworldindata.org/coronavirus/country/south-africa?country=~ZAF)
 
-## Symptons
+## Symptoms
 
 Most common:
 
@@ -77,7 +77,7 @@ To prevent the spread of COVID-19:
 - Keep a **safe distance** from others.
 - Don’t touch your eyes, nose or mouth.
 - Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze.
-- Avoid gatherings, particulary in confined spaces and stay home if you feel unwell.
+- Avoid gatherings, particularly in confined spaces and stay home if you feel unwell.
 
 Learn more on [who.int](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
 
