@@ -34,8 +34,10 @@ Detailed regulations and guidelines can be found [here](https://www.gov.za/covid
 <details>
   <summary>Daily deaths</summary>
 
-  <iframe src="https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=true&amp;time=2020-01-03..latest&amp;country=~ZAF&amp;region=World&amp;casesMetric=true&amp;interval=smoothed&amp;hideControls=true&amp;smoothing=7&amp;pickerMetric=total_deaths&amp;pickerSort=desc" loading="lazy" style="width: 100%; height: 500px; border: 0px none;"></iframe>
+  <iframe src="https://ourworldindata.org/grapher/daily-covid-deaths-7-day?tab=chart&time=earliest..latest&country=~ZAF" loading="lazy" style="width: 100%; height: 500px; border: 0px none;"></iframe>
 </details>
+
+View more on [ourworldindata.org](https://ourworldindata.org/coronavirus/country/south-africa?country=~ZAF)
 
 ## Symptons
 
